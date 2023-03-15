@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "gtx5555",
+    "imageUrl": "https://img.overclockers.co.uk/products/OCUK-GX-1AV-PC/2301111057250.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "gtx6666",
+    "imageUrl": "https://img.overclockers.co.uk/products/OCUK-GX-20X-GW/p01169-pic-9386389758e3bf99.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 18
+  },
+  {
+    "id": 3,
+    "name": "gtx7777",
+    "imageUrl": "https://img.overclockers.co.uk/media/image/GX46KAS_289136.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "name": "gtx8888",
+    "imageUrl": "https://img.overclockers.co.uk/media/image/GX46KAS_289136.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 25
+  },
+  {
+    "id": 5,
+    "name": "amd525",
+    "imageUrl": "https://img.overclockers.co.uk/products/GPU/asusdual6600.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 18
+  },
+  {
+    "id": 6,
+    "name": "amd666",
+    "imageUrl": "https://img.overclockers.co.uk/media/image/asus161bc77aaeef58.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 14
+  },
+  {
+    "id": 7,
+    "name": "ryzen56",
+    "imageUrl": "https://img.overclockers.co.uk/products/OCUK-GX-13E-ZT/zt.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 18
+  },
+  {
+    "id": 8,
+    "name": "asus567",
+    "imageUrl": "https://img.overclockers.co.uk/products/OCUK-GX-3A4-SP/11322-01-rx7900xtx-nitro-24ggddr6-full-box-card.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 14
+  },
+  {
+    "id": 9,
+    "name": "ryzen999",
+    "imageUrl": "https://img.overclockers.co.uk/media/image/GX372MS_288996.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=244&h=244",
+    "price": 16
+  }
+]
