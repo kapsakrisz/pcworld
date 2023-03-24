@@ -18,7 +18,7 @@ const categories = [
     "id": 3,
     "title": "Monitors",
     "imageUrl": "https://img.overclockers.co.uk/products/MO-01V-MS/6-mpg-artymis-323cqr.jpg?auto=compress%2Cformat&fit=fill&fill-color=fff&q=70&fill=solid&w=282&h=282",
-    route:'shop/sneakers'
+    route:'shop/monitors'
   },
   {
     "id": 4,
@@ -28,9 +28,9 @@ const categories = [
   },
   {
     "id": 5,
-    "title": "GAming Chairs",
+    "title": "Gaming Chairs",
     "imageUrl": "https://img.overclockers.co.uk/homepage/misc/2203-hp-feature-box-chairs-update.jpg?auto=compress%2Cformat&fit=max&q=70&w=282",
-    route:'shop/mens'
+    route:'shop/gaming chairs'
   }
 ];
 
