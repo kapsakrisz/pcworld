@@ -20,8 +20,12 @@ const Navigation = () => {
   return (
     <Fragment>
       <div className='navigation'>
+      
         <Link className='logo-container' to='/'>
-          <CrwnLogo className='logo' />
+        <img className='logo'
+      src="https://img.overclockers.co.uk/homepage/misc/2203-hp-feature-box-cases.jpg?auto=compress%2Cformat&fit=max&q=70&w=512"
+      alt=""
+      />
         </Link>
         <div className='nav-links-container'>
           <Link className='nav-link' to='/shop'>
